@@ -2,10 +2,6 @@
 
 I am a computational scientist / mathematician with a passion for probabilistic inference and emergent behavior in the context of biomedical data.
 
-Currently, I work as an associate computational biologist in the New York Genome Center's Technology Innovation Laboratory, where I develop statistical models and build machine learning tools for genomics research. I also collaborate as a visiting researcher with the Computational Morphogenomics Group at Columbia University, as well as occasionally with the Self-Organizing Systems Group at Google Research. 
-
-Outside of research, I enjoy inline skating, skiing, scuba diving, playing the lyre harp, and building cool stuff.
-
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
