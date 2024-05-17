@@ -4,8 +4,6 @@ I am a computational scientist / mathematician with a passion for probabilistic 
 
 Currently, I work as an associate computational biologist in the New York Genome Center's Technology Innovation Laboratory, where I develop statistical models and build machine learning tools for genomics research. I also collaborate as a visiting researcher with the Computational Morphogenomics Group at Columbia University, as well as occasionally with the Self-Organizing Systems Group at Google Research. 
 
-Previously, I received my master's in applied math from Columbia University after studying computer science and theoretical math at The Ohio State University. 
-
 Outside of research, I enjoy inline skating, skiing, scuba diving, playing the lyre harp, and building cool stuff.
 
 <!--
