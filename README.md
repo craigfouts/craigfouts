@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I'm a scientist / mathematician with a passion for probabilistic inference and emergent behavior in the context of biomedical data.
+I am a computational scientist/mathematician with a passion for modeling emergent behavior in the context of biomedical data.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
