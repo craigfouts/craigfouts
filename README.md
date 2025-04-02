@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I am a scientist/mathematician/engineer with a passion for dynamical systems, computational genomics, and emergent behavior in the context of biomedical data.
+I am an enthusiastic scientist/mathematician/engineer interested in developing a statistical understanding of living things and studying the physics of emergent behavior in the context of biomedical data.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
