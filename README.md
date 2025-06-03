@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I am an enthusiastic scientist/engineer interested in deriving mathematical descriptions of living systems and studying the dynamics of emergent behavior in the context of biomedical data.
+I am an enthusiastic scientist/engineer interested in building mathematical descriptions of living systems and studying the dynamics of emergent behavior in the context of biomedical data.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
