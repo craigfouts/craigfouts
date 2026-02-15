@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I’m an enthusiastic scientist/engineer interested in building data-driven mechanistic models of living systems and exploring the dynamics of emergent behavior in host-microbiome ecosystems.
+I’m an enthusiastic scientist/engineer interested in building data-driven mechanistic models of living systems and exploring the dynamics of emergent behavior in host-microbiome interactions.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
