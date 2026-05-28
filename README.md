@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I’m an enthusiastic scientist/engineer interested in building data-driven mechanistic models of living systems and exploring emergent topology in host-microbiome network interactions.
+I’m an enthusiastic scientist/engineer interested in building interpretable and data-driven mechanistic models to support efforts in computational ecology, conservation, and pathology.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
