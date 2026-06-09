@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I’m an enthusiastic scientist/engineer interested in building data-driven mechanistic models of living systems and exploring how host-microbiome network topology shapes immune response.
+I’m an enthusiastic scientist/engineer interested in building data-driven mechanistic models of living systems and exploring how host-microbial network topology drives immune responses.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
