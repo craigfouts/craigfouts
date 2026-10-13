@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I’m a passionate scientist/bioengineer interested in building data-driven mechanistic models of living things and exploring emergent dynamics in host-microbiome ecosystems subject to dysbiosis.
+I'm a passionate scientist/bioengineer interested in building mathematical models of living systems.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
