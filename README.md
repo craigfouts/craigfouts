@@ -1,6 +1,6 @@
 ### Hello :) 
 
-I'm a passionate scientist/bioengineer interested in building mathematical models of living systems.
+I'm a passionate scientist/bioengineer interested in building mathematical models of living systems. Currently, my work largely involves developing in silico methods for anatomical niche discovery in histological spatial-omics data.
 
 <!--
 **craigfouts/craigfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
